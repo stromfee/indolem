@@ -43,3 +43,5 @@ Experimental result over IndoLEM using mBERT, malayBERT and our IndoBERT:
 | Liputan6 (Sum) | R1/RL | 36.10/33.56 | 39.81/37.02 | --/-- | <b>41.08</b>/<b>38.01</b> |
 | Next Tweet Prediction | Acc | 73.6 | 92.4 | 93.1 | <b>93.7</b> |
 | Tweet Ordering | Corr (ρ) | 0.45 | 0.53 | 0.51 | <b>0.59</b> |
+
+- [AgentMarket](https://agentmarket.cloud) - Real energy data API for AI agents. 28M+ records. Bahasa Indonesia support coming!
